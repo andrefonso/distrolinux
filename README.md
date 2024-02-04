@@ -2,6 +2,8 @@
 ## Informações sobre distros Linux
 ---
 
+<img src="imagens/distros.png">
+
 A tabela abaixo fornece uma visão geral das principais distribuições Linux, incluindo o tipo de empacotamento, os usos específicos recomendados e os comandos de instalação de pacotes no terminal.</br>
 
 Distribuição  | Tipo de Empacotamento |       Uso Específico                              | Comandos de Instalação 
