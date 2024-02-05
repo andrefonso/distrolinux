@@ -8,9 +8,9 @@ A tabela abaixo fornece uma visão geral das principais distribuições Linux, i
 
 Distribuição  | Tipo de Empacotamento |       Uso Específico                              | Comandos de Instalação 
 :------------:|:---------------------:|:-------------------------------------------------:|:---------------------------:
-Ubuntu        |DEB                    |Uso geral, desktops e servidores                   |`sudo apt-get install` [pacote]
+Ubuntu        |DEB                    |Uso geral, desktops e servidores                   |`sudo apt install` [pacote]
 Fedora        |RPM                    |Desenvolvimento, servidores, desktops              |`sudo dnf install` [pacote]
-Debian        |DEB                    |Estabilidade, servidores, sistemas embarcados      |`sudo apt-get install` [pacote]
+Debian        |DEB                    |Estabilidade, servidores, sistemas embarcados      |`sudo apt install` [pacote]
 CentOS        |RPM                    |Servidores, estabilidade                           |`sudo yum install` [pacote]
 Arch Linux    |Pacman                 |Uso avançado, rolling release                      |`sudo pacman -S` [pacote]
 openSUSE      |RPM                    |Desktops, servidores                               |`sudo zypper install` [pacote]
