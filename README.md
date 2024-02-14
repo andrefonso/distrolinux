@@ -42,3 +42,5 @@ Debian       |/etc/apt/sources.list                                             
 Arch Linux	 |/etc/pacman.conf                                                                 |
 Slackware	   |/etc/slackpkg/mirrors ou /etc/slackpkg/slackpkg.conf                             |
 Fedora       |/etc/yum.repos.d/*.repo (os arquivos .repo dentro do diretório /etc/yum.repos.d/)|
+
+Esses arquivos são usados pelos respectivos sistemas para configurar os repositórios de onde os pacotes de software podem ser baixados e instalados. Eles podem variar em detalhes específicos de configuração, mas geralmente seguem esse padrão em suas distribuições correspondentes.
