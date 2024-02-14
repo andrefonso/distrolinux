@@ -33,3 +33,12 @@ O comando _installpkg_ no _Slackware_ é usado para instalar pacotes baixados ma
 
 - Para instalar pacotes já baixados use:</br>
   `sudo installpkg /caminho/para/seu_pacote.tgz`
+
+## Na tabela abaixo consta a lista dos arquivos usados para gerenciar os repositórios em algumas distribuições populares:
+
+Distribuição |	Arquivo de gerenciamento de repositórios                                       |
+:-----------:|:--------------------------------------------------------------------------------|
+Debian       |/etc/apt/sources.list                                                            |
+Arch Linux	 |/etc/pacman.conf                                                                 |
+Slackware	   |/etc/slackpkg/mirrors ou /etc/slackpkg/slackpkg.conf                             |
+Fedora       |/etc/yum.repos.d/*.repo (os arquivos .repo dentro do diretório /etc/yum.repos.d/)|
