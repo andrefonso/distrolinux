@@ -49,9 +49,9 @@ Na tabela abaixo temos dados referentes as distribuições Linux citadas:
 
 | **Distribuição Linux** | **Criador**                   | **Data de Criação**   | **Base**        |
 |-------------------------|-------------------------------|-----------------------|-----------------|
-| Debian                  | Ian Murdock                  | 16 de agosto de 1993  | Independente    |
 | Ubuntu                  | Mark Shuttleworth (Canonical)| 20 de outubro de 2004 | Debian          |
 | Fedora                  | Comunidade Fedora Project    | 6 de novembro de 2003 | RHEL (Red Hat)  |
+| Debian                  | Ian Murdock                  | 16 de agosto de 1993  | Independente    |
 | CentOS                  | Gregory Kurtzer              | 14 de maio de 2004    | RHEL (Red Hat)  |
 | Arch Linux              | Judd Vinet                   | 11 de março de 2002   | Independente    |
 | openSUSE                | Comunidade openSUSE          | 2005                  | SUSE Linux      |
