@@ -44,3 +44,19 @@ Slackware	   |/etc/slackpkg/mirrors ou /etc/slackpkg/slackpkg.conf              
 Fedora       |/etc/yum.repos.d/*.repo (os arquivos .repo dentro do diretório /etc/yum.repos.d/)|
 
 Esses arquivos são usados pelos respectivos sistemas para configurar os repositórios de onde os pacotes de software podem ser baixados e instalados. Eles podem variar em detalhes específicos de configuração, mas geralmente seguem esse padrão em suas distribuições correspondentes.
+
+Na tabela abaixo temos dados referentes as distribuições Linux citadas:
+
+| **Distribuição Linux** | **Criador**                   | **Data de Criação**   | **Base**        |
+|-------------------------|-------------------------------|-----------------------|-----------------|
+| Debian                  | Ian Murdock                  | 16 de agosto de 1993  | Independente    |
+| Ubuntu                  | Mark Shuttleworth (Canonical)| 20 de outubro de 2004 | Debian          |
+| Fedora                  | Comunidade Fedora Project    | 6 de novembro de 2003 | RHEL (Red Hat)  |
+| CentOS                  | Gregory Kurtzer              | 14 de maio de 2004    | RHEL (Red Hat)  |
+| Arch Linux              | Judd Vinet                   | 11 de março de 2002   | Independente    |
+| openSUSE                | Comunidade openSUSE          | 2005                  | SUSE Linux      |
+| Manjaro                 | Roland Singer, Guillaume Benoit | 10 de julho de 2011 | Arch Linux      |
+| RHEL (Red Hat)          | Bob Young, Marc Ewing        | 13 de maio de 1995    | Independente    |
+| Slackware               | Patrick Volkerding           | 16 de julho de 1993   | Independente    |
+| Gentoo                  | Daniel Robbins               | 31 de março de 2002   | Independente    |
+
